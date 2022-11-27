@@ -1,0 +1,15 @@
+c:\Users\owner\Desktop\efa\ElevenFiftyProjects\GoldBadgeProject\DeliveryService\obj\Debug\net6.0\DeliveryService.csproj.AssemblyReference.cache
+c:\Users\owner\Desktop\efa\ElevenFiftyProjects\GoldBadgeProject\DeliveryService\obj\Debug\net6.0\DeliveryService.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\owner\Desktop\efa\ElevenFiftyProjects\GoldBadgeProject\DeliveryService\obj\Debug\net6.0\DeliveryService.AssemblyInfoInputs.cache
+c:\Users\owner\Desktop\efa\ElevenFiftyProjects\GoldBadgeProject\DeliveryService\obj\Debug\net6.0\DeliveryService.AssemblyInfo.cs
+c:\Users\owner\Desktop\efa\ElevenFiftyProjects\GoldBadgeProject\DeliveryService\obj\Debug\net6.0\DeliveryService.csproj.CoreCompileInputs.cache
+c:\Users\owner\Desktop\efa\ElevenFiftyProjects\GoldBadgeProject\DeliveryService\obj\Debug\net6.0\DeliveryService.dll
+c:\Users\owner\Desktop\efa\ElevenFiftyProjects\GoldBadgeProject\DeliveryService\obj\Debug\net6.0\refint\DeliveryService.dll
+c:\Users\owner\Desktop\efa\ElevenFiftyProjects\GoldBadgeProject\DeliveryService\obj\Debug\net6.0\DeliveryService.pdb
+c:\Users\owner\Desktop\efa\ElevenFiftyProjects\GoldBadgeProject\DeliveryService\bin\Debug\net6.0\DeliveryService.exe
+c:\Users\owner\Desktop\efa\ElevenFiftyProjects\GoldBadgeProject\DeliveryService\bin\Debug\net6.0\DeliveryService.deps.json
+c:\Users\owner\Desktop\efa\ElevenFiftyProjects\GoldBadgeProject\DeliveryService\bin\Debug\net6.0\DeliveryService.runtimeconfig.json
+c:\Users\owner\Desktop\efa\ElevenFiftyProjects\GoldBadgeProject\DeliveryService\bin\Debug\net6.0\DeliveryService.dll
+c:\Users\owner\Desktop\efa\ElevenFiftyProjects\GoldBadgeProject\DeliveryService\bin\Debug\net6.0\DeliveryService.pdb
+c:\Users\owner\Desktop\efa\ElevenFiftyProjects\GoldBadgeProject\DeliveryService\obj\Debug\net6.0\DeliveryService.genruntimeconfig.cache
+c:\Users\owner\Desktop\efa\ElevenFiftyProjects\GoldBadgeProject\DeliveryService\obj\Debug\net6.0\ref\DeliveryService.dll
